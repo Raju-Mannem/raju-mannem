@@ -1,11 +1,10 @@
 <h1 align="center">Hi there 👋, This is Raju Mannem</h1> <br/>
 # 💫 About Me:
-🔭 I’m currently working on Freelancing<br><br>🌱 I’m currently learning DevOps<br><br>👯 I’m looking to collaborate on Web Development and AI<br><br>🤝 I’m looking for help with Open Source<br><br>💬 Ask me about AI,  DATA ANALYSIS, FULL STACK MERN, JAVA, PYTHON<br><br>📫 How to reach me rajumannem71@gmail.com.com<br><br>⚡ Fun fact I'm a competitive gamer<br>
+🔭 I’m currently working on Freelancing<br><br>🌱 I’m currently learning DevOps<br><br>👯 I’m looking to collaborate on Web Development and AI<br><br>🤝 I’m looking for help with Open Source<br><br>💬 Ask me about AI,  DATA ANALYSIS, FULL STACK MERN, JAVA, PYTHON<br><br>📫 How to reach me rajumannem71@gmail.com.com<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=raju-mannem&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/1068061787188121610) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raju-mannem-604689240/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Mrdevr1/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/devloper_raju) 
