@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Freelancing<br><br>🌱 I’m currently learning DevOps<br><br>👯 I’m looking to collaborate on Web Development and AI<br><br>🤝 I’m looking for help with Open Source<br><br>💬 Ask me about AI,  DATA ANALYSIS, FULL STACK MERN, JAVA, PYTHON<br><br>⚡ Fun fact I'm a competitive gamer<br>
+🔭 I’m currently working on Freelancing<br><br>🌱 I’m currently learning DevOps<br><br>👯 I’m looking to collaborate on Web Development and AI<br><br>🤝 I’m looking for help with Open Source<br><br>💬 Ask me about AI,  DATA ANALYSIS, FULL STACK MERN, JAVA, PYTHON<br><br>📫 How to reach me rajumannem71@gmail.com.com<br><br>⚡ Fun fact I'm a competitive gamer<br>
 
 
 ## 🌐 Socials:
