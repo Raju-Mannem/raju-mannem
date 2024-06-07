@@ -1,6 +1,3 @@
-<img src="https://github.com/Raju-Mannem/raju-mannem/assets/104633105/5ab9d923-7e51-4042-abb9-e059d35c1988" width="400" height="300">
-
-
 <h1 align="center">Hi there 👋, This is Raju Mannem</h1> <br/>
 # 💫 About Me:
 🔭 I’m currently working on Freelancing <br><br>🌱 I’m currently learning DevOps<br><br>👯 I’m looking to collaborate on Web Development and AI<br><br>🤝 I’m looking for help with Open Source<br><br>💬 Ask me about AI,  DATA ANALYSIS, FULL STACK MERN, JAVA, PYTHON<br><br>📫 How to reach me rajumannem71@gmail.com <br>
