@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align="center">let me sort out the issue</h3>
+<h3 align="center" style="font-family: "Gill Sans", sans-serif;">let me sort out the issue</h3>
 
 ---
 
