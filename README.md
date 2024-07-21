@@ -4,7 +4,7 @@
 
 <h3 align="center" style="font-family: cursive;color:#2E236C">Let Me Sort Out The Issue</h3>
 
-![14](https://github.com/user-attachments/assets/25fd9f91-6ab3-490b-8fdf-6ccceb03a280)
+<img src="https://github.com/user-attachments/assets/25fd9f91-6ab3-490b-8fdf-6ccceb03a280" width="100%" />
 
 
 # 💫 About Me:
