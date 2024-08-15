@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/25fd9f91-6ab3-490b-8fdf-6ccceb03a280" height="2px" width="100%" />
 <h3 align="center" style="font-family: cursive;color:#071952">Let Me Sort Out The ISSUE</h3>
 <img src="https://github.com/user-attachments/assets/25fd9f91-6ab3-490b-8fdf-6ccceb03a280" height="2px" width="100%" />
-# 💫 About Me:
+💫 About Me:
 🔭 I’m a Computer Science graduate and a open source Contributer <br><br>👯 I’m looking to collaborate on Web Development and AI<br><br>🤝 I’m looking for help with Open Source<br><br>💬 Ask me about AI,  DATA ANALYSIS, FULL STACK MERN, JAVA, PYTHON<br><br>📫 How to reach me rajumannem71@gmail.com <br>
 
 ---
