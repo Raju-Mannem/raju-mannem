@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, This is Raju Mannem</h1> <br/>
 <img src="https://github.com/user-attachments/assets/25fd9f91-6ab3-490b-8fdf-6ccceb03a280" height="2px" width="100%" />
-*<h3 align="center" style="font-family: cursive;color:#071952">let me sort out the issue</h3>*
+*let me sort out the issue*
 <img src="https://github.com/user-attachments/assets/25fd9f91-6ab3-490b-8fdf-6ccceb03a280" height="2px" width="100%" />
 💫 About Me:
 🔭 I’m a Computer Science graduate and a open source Contributer <br><br>👯 I’m looking to collaborate on Web Development and AI<br><br>🤝 I’m looking for help with Open Source<br><br>💬 Ask me about FULL STACK & Data Analysis <br><br>📫 How to reach me rajumannem71@gmail.com <br>
