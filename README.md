@@ -2,7 +2,9 @@
 <i><h3 align="center" style="color:Azure">let me sort out your issue</h3></i>
 <hr>
 🔭 I’m a Independent researcher on Deep learning and a Open Source Developer <br><br>🤝 Researching, Debugging and Delivering <br><br>📫 Reach me on rajumannem71@gmail.com <br>
-<hr>
+
+---
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1068061787188121610) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raju-mannem-604689240/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Mrdevr1/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/devloper_raju) 
 
