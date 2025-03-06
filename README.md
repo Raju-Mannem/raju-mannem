@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, This is Raju Mannem</h1> <br/>
+<h1 align="center">Hi there 👋, This is Raju Mannem</h1>
 <i><h3 align="center" style="color:Azure">let me sort out your issue</h3></i>
 <hr>
 🔭 I’m a Independent researcher on Deep learning and a Open Source Developer <br><br>🤝 Researching, Debugging and Delivering <br><br>📫 Reach me on rajumannem71@gmail.com <br>
