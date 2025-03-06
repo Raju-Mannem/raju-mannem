@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, This is Raju Mannem</h1>
-<i><h3 align="center" style="color:Azure">let me sort out your issue</h3></i><br>
+<i><h3 align="center" style="color:Azure">let me sort out your issue</h3></i>
 
 ---
 
